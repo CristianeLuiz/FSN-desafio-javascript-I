@@ -126,4 +126,4 @@ console.log(buscarAluno('Guilherme'));
 console.log(matricularAluno('Carlos', "Android"));
 console.log(aplicarFalta({nome:"Edson",notas:[],cursos:[],faltas:6}));
 console.log(aplicarFalta("Edson"));
-console.log(aplicarNota("Edson", 5));
+console.log(aplicarNota("Lucca", 5));
